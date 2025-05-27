@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Procurando meu primeiro estagio
+- 🔭 Estagiario de TI - Suporte
 - 🌱 estudando Programaçao/cyber security
 
 -->
