@@ -3,6 +3,6 @@
 
 
 - 🔭 Estagiario de TI - Suporte
-- 🌱 estudando Programaçao/cyber security
+- 🌱 estudando Programaçao, Sistemas Windows-Linux, Redes , Segurança da informaçao , cyber security
 
 -->
