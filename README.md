@@ -2,7 +2,7 @@
 
 **`Suporte de T.I |windows|linux|segurança da informaçao|`**
 
-Meu nome é Diogo da Silva, Suporte de Tecnico de TI e graduando em Segurança da Informação com foco em Defesa Cibernética. No dia a dia, realizo atividades como atendimento a usuários, resolução de problemas técnicos, formatação de máquinas, instalação de softwares e suporte a sistemas operacionais Windows e Linux. Estou em constante aprendizado, buscando aprimorar meus conhecimentos em redes e segurança da informação. Além disso, tenho estudado programação por conta própria, me aprofundando aos poucos nesse universo para expandir minhas habilidades na área de tecnologia.
+Meu nome é Diogo da Silva, Suporte Tecnico de TI e graduando em Segurança da Informação com foco em Defesa Cibernética. No dia a dia, realizo atividades como atendimento a usuários, resolução de problemas técnicos, formatação de máquinas, instalação de softwares e suporte a sistemas operacionais Windows e Linux. Estou em constante aprendizado, buscando aprimorar meus conhecimentos em redes e segurança da informação. Além disso, tenho estudado programação por conta própria, me aprofundando aos poucos nesse universo para expandir minhas habilidades na área de tecnologia.
 
 
 
